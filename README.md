@@ -1,0 +1,4 @@
+Solcoo
+======
+
+Wiki for solcoo
